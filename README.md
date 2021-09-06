@@ -7,7 +7,7 @@ It consists of total 4 files:
  - Records.json file is used to store all the records of Inventory.
  - Sales.json file is used to store the records of Sales.
  - IMS_Adding_New_Products.ipynb file is used to add new products to Records.json file.
- - IMS_Purchasing_Products.ipynb file is used for purchasing any product, updating Record.json file, updating Sales.json file and for Generating BILL.
+ - IMS_Purchasing_Products.ipynb file is used for purchasing any product, updating Record.json file, updating Sales.json file and Generating BILL.
 
 ### Features:
  - It shows ID and Name of all the Products to the user.
